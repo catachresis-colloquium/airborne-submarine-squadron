@@ -24,7 +24,8 @@ workflows:
     '.github/workflows/push-email-notify.yml':
         - 'hyperpolymath/smtp-notify-action@22e7bdb322c430c1d0dac6b3bb307f4bb139d0be'
     '.github/workflows/scorecard.yml': []
-    '.github/workflows/secret-scanner.yml': []
+    '.github/workflows/secret-scanner.yml':
+        - 'metadatastician/standards@b8f60511e76c9015d86990317162dce653c92fe1'
     '.github/workflows/static-analysis.yml':
         - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
         - 'actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a'
@@ -76,6 +77,13 @@ dependencies:
         commit: 'sha1-22e7bdb322c430c1d0dac6b3bb307f4bb139d0be'
         owner_id: 6759885
         repo_id: 1352485172
+    'metadatastician/standards@b8f60511e76c9015d86990317162dce653c92fe1':
+        ref: 'b8f60511e76c9015d86990317162dce653c92fe1'
+        commit: 'sha1-b8f60511e76c9015d86990317162dce653c92fe1'
+        owner_id: 297579217
+        repo_id: 1116521501
+        uses:
+            - 'actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1'
     'oven-sh/setup-bun@0c5077e51419868618aeaa5fe8019c62421857d6':
         ref: 'v2.2.0'
         commit: 'sha1-0c5077e51419868618aeaa5fe8019c62421857d6'
