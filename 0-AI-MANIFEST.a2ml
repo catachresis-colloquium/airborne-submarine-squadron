@@ -12,7 +12,7 @@
     (name "airborne-submarine-squadron")
     (full-name "Airborne Submarine Squadron (ASS)")
     (version "0.5.0")
-    (repo "https://github.com/hyperpolymath/airborne-submarine-squadron")
+    (repo "https://github.com/catachresis-colloquium/airborne-submarine-squadron")
     (license "AGPL-3.0-or-later")
     (author "Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>")
     (co-author "Joshua Jewell (JoshuaJewell)")

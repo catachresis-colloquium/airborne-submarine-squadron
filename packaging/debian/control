@@ -4,9 +4,9 @@ Priority: optional
 Maintainer: Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.6.2
-Homepage: https://github.com/hyperpolymath/airborne-submarine-squadron
-Vcs-Git: https://github.com/hyperpolymath/airborne-submarine-squadron.git
-Vcs-Browser: https://github.com/hyperpolymath/airborne-submarine-squadron
+Homepage: https://github.com/catachresis-colloquium/airborne-submarine-squadron
+Vcs-Git: https://github.com/catachresis-colloquium/airborne-submarine-squadron.git
+Vcs-Browser: https://github.com/catachresis-colloquium/airborne-submarine-squadron
 Rules-Requires-Root: no
 
 Package: airborne-submarine-squadron

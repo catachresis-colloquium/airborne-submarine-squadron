@@ -3,5 +3,5 @@
 Contact: mailto:6759885+hyperpolymath@users.noreply.github.com
 Expires: 2027-04-03T00:00:00.000Z
 Preferred-Languages: en
-Canonical: https://github.com/hyperpolymath/airborne-submarine-squadron/.well-known/security.txt
-Policy: https://github.com/hyperpolymath/airborne-submarine-squadron/blob/main/SECURITY.md
+Canonical: https://github.com/catachresis-colloquium/airborne-submarine-squadron/.well-known/security.txt
+Policy: https://github.com/catachresis-colloquium/airborne-submarine-squadron/blob/main/SECURITY.md

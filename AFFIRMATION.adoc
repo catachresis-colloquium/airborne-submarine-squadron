@@ -5,7 +5,7 @@ Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 :toc: macro
 :toclevels: 2
 :icons: font
-:repo-url: https://github.com/hyperpolymath/airborne-submarine-squadron
+:repo-url: https://github.com/catachresis-colloquium/airborne-submarine-squadron
 :anchor-sha: 69655e2a8d769bc215f09220acd122746fc61d03
 :permalink: {repo-url}/tree/{anchor-sha}
 :pages-url: https://hyperpolymath.github.io/airborne-submarine-squadron/
@@ -87,7 +87,7 @@ example.
 | Field | Value
 
 | Repo
-| `hyperpolymath/airborne-submarine-squadron`
+| `catachresis-colloquium/airborne-submarine-squadron`
 
 | Branch
 | `main` (fetched from `origin`; checks ran on a detached checkout of the
@@ -374,7 +374,7 @@ be a directory. Bun 1.4.2 is pinned in `mise.toml`.
 
 [source,bash]
 ----
-git clone https://github.com/hyperpolymath/airborne-submarine-squadron
+git clone https://github.com/catachresis-colloquium/airborne-submarine-squadron
 cd airborne-submarine-squadron
 git checkout 69655e2a8d769bc215f09220acd122746fc61d03
 bun test
