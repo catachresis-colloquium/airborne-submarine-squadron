@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: MPL-2.0
 #
-# Gitleaks configuration — hyperpolymath/airborne-submarine-squadron
+# Gitleaks configuration — catachresis-colloquium/airborne-submarine-squadron
 #
 # EXTENDS THE ESTATE BASELINE, it does not replace it.
 # `.gitleaks-estate.toml` is staged into the workspace root by
@@ -27,7 +27,7 @@
 path = ".gitleaks-estate.toml"
 
 [allowlist]
-description = "hyperpolymath/airborne-submarine-squadron: locally justified exemptions, extending the estate baseline"
+description = "catachresis-colloquium/airborne-submarine-squadron: locally justified exemptions, extending the estate baseline"
 
 
 paths = [

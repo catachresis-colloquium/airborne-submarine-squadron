@@ -21,5 +21,5 @@
   (inputs (list coreutils bash))
   (synopsis "Airborne Submarine Squadron — Sopwith-style flying-submarine arcade game")
   (description "A deterministic fixed-timestep arcade game in which the attack submarine also flies and reaches orbit. Plain JS engine, AffineScript/typed-WASM core in progress, Bun game server.")
-  (home-page "https://github.com/hyperpolymath/airborne-submarine-squadron")
+  (home-page "https://github.com/catachresis-colloquium/airborne-submarine-squadron")
   (license agpl3+))

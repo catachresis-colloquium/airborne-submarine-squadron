@@ -6,7 +6,7 @@ title: "Airborne Submarine Squadron"
 type: software
 version: "0.5.0"
 license: AGPL-3.0-or-later
-repository-code: "https://github.com/hyperpolymath/airborne-submarine-squadron"
+repository-code: "https://github.com/catachresis-colloquium/airborne-submarine-squadron"
 abstract: >-
   A Sopwith-style arcade game in which the aircraft is also a submarine that can dive, fly, and leave the
   atmosphere for orbit. A fixed-timestep deterministic JavaScript engine with an AffineScript/typed-WASM core

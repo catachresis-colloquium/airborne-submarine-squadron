@@ -1,6 +1,6 @@
 # Clone the repository
 
-git clone https://github.com/hyperpolymath/airborne-submarine-squadron.git
+git clone https://github.com/catachresis-colloquium/airborne-submarine-squadron.git
 cd airborne-submarine-squadron
 
 # Using Guix (recommended for reproducibility)
@@ -90,10 +90,10 @@ airborne-submarine-squadron/
 
     Look for issues labelled:
 
-    - [`good first issue`](https://github.com/hyperpolymath/airborne-submarine-squadron/labels/good%20first%20issue) — Simple Perimeter 3 tasks
-    - [`help wanted`](https://github.com/hyperpolymath/airborne-submarine-squadron/labels/help%20wanted) — Community help needed
-    - [`documentation`](https://github.com/hyperpolymath/airborne-submarine-squadron/labels/documentation) — Docs improvements
-    - [`perimeter-3`](https://github.com/hyperpolymath/airborne-submarine-squadron/labels/perimeter-3) — Community sandbox scope
+    - [`good first issue`](https://github.com/catachresis-colloquium/airborne-submarine-squadron/labels/good%20first%20issue) — Simple Perimeter 3 tasks
+    - [`help wanted`](https://github.com/catachresis-colloquium/airborne-submarine-squadron/labels/help%20wanted) — Community help needed
+    - [`documentation`](https://github.com/catachresis-colloquium/airborne-submarine-squadron/labels/documentation) — Docs improvements
+    - [`perimeter-3`](https://github.com/catachresis-colloquium/airborne-submarine-squadron/labels/perimeter-3) — Community sandbox scope
 
     ---
 
@@ -315,7 +315,7 @@ GitHub Actions runs tests on every push and PR:
 3.  **Required checks** — All tests must pass before merge
 
 View workflow status: [Actions
-tab](https://github.com/hyperpolymath/airborne-submarine-squadron/actions)
+tab](https://github.com/catachresis-colloquium/airborne-submarine-squadron/actions)
 
 ’’’’’
 

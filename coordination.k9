@@ -32,7 +32,7 @@ project:
   name: "Airborne Submarine Squadron"
   description: "Sopwith-inspired arcade game where a zeppelin launches attack submarines that fly, dive, and torpedo. Browser-based with system tray integration."
   license: AGPL-3.0-or-later
-  repo: "hyperpolymath/airborne-submarine-squadron"
+  repo: "catachresis-colloquium/airborne-submarine-squadron"
   languages:
     - JavaScript
     - AffineScript

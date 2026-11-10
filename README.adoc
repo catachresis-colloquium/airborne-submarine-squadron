@@ -7,7 +7,7 @@
 
 image::docs/assets/banner.png[Airborne Submarine Squadron banner,width="100%",link=""]
 
-image:https://github.com/hyperpolymath/airborne-submarine-squadron/actions/workflows/test.yml/badge.svg[Test Suite,link="https://github.com/hyperpolymath/airborne-submarine-squadron/actions/workflows/test.yml"]
+image:https://github.com/catachresis-colloquium/airborne-submarine-squadron/actions/workflows/test.yml/badge.svg[Test Suite,link="https://github.com/catachresis-colloquium/airborne-submarine-squadron/actions/workflows/test.yml"]
 image:https://img.shields.io/badge/License-AGPL_v3-blue.svg[License: AGPL-3.0,link=LICENSE]
 image:https://img.shields.io/badge/runtime-Bun-black?logo=bun[Runtime: Bun,link="https://bun.sh"]
 image:https://img.shields.io/badge/CRG-C-yellow[Component Readiness Grade C,link="docs/governance/READINESS.adoc"]

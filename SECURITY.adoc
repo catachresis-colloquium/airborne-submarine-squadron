@@ -27,7 +27,7 @@ GitHub’s Security Advisory feature:
 
 [arabic]
 . Navigate to
-https://github.com/hyperpolymath/airborne-submarine-squadron/security/advisories/new[Report
+https://github.com/catachresis-colloquium/airborne-submarine-squadron/security/advisories/new[Report
 a Vulnerability]
 . Click *"`Report a vulnerability`"*
 . Complete the form with as much detail as possible
@@ -223,7 +223,7 @@ from your initial report.
 
 The following are within scope for security research:
 
-* This repository (`+hyperpolymath/airborne-submarine-squadron+`) and
+* This repository (`+catachresis-colloquium/airborne-submarine-squadron+`) and
 all its code
 * Official releases and packages published from this repository
 * Documentation that could lead to security issues
@@ -356,7 +356,7 @@ To stay informed about security updates:
 * *Watch this repository*: Click "`Watch`" → "`Custom`" → Select
 "`Security alerts`"
 * *GitHub Security Advisories*: Published at
-https://github.com/hyperpolymath/airborne-submarine-squadron/security/advisories[Security
+https://github.com/catachresis-colloquium/airborne-submarine-squadron/security/advisories[Security
 Advisories]
 * *Release notes*: Security fixes noted in link:CHANGELOG.adoc[CHANGELOG]
 
@@ -408,7 +408,7 @@ When using Airborne Submarine Squadron, we recommend:
 === Additional Resources
 
 * https://github.com/hyperpolymath.gpg[Our PGP Public Key]
-* https://github.com/hyperpolymath/airborne-submarine-squadron/security/advisories[Security
+* https://github.com/catachresis-colloquium/airborne-submarine-squadron/security/advisories[Security
 Advisories]
 * link:CHANGELOG.adoc[Changelog]
 * link:.github/CONTRIBUTING.md[Contributing Guidelines]
@@ -423,11 +423,11 @@ Advisories]
 |===
 |Purpose |Contact
 |*Security issues*
-|https://github.com/hyperpolymath/airborne-submarine-squadron/security/advisories/new[Report
+|https://github.com/catachresis-colloquium/airborne-submarine-squadron/security/advisories/new[Report
 via GitHub] or 6759885+hyperpolymath@users.noreply.github.com
 
 |*General questions*
-|https://github.com/hyperpolymath/airborne-submarine-squadron/discussions[GitHub
+|https://github.com/catachresis-colloquium/airborne-submarine-squadron/discussions[GitHub
 Discussions]
 
 |*Other enquiries* |See link:README.adoc[README] for contact information

@@ -39,7 +39,7 @@ const REGISTRY = {
     display: "Airborne Submarine Squadron (ASS)",
     version: "0.5.0",
     license: "AGPL-3.0-or-later",
-    repo:    "https://github.com/hyperpolymath/airborne-submarine-squadron",
+    repo:    "https://github.com/catachresis-colloquium/airborne-submarine-squadron",
   },
   entryPoints: {
     root:     "index.html",

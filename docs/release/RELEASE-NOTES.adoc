@@ -76,7 +76,7 @@ multiple sizes
 [source,bash]
 ----
 # Clone the repository
-git clone https://github.com/hyperpolymath/airborne-submarine-squadron.git
+git clone https://github.com/catachresis-colloquium/airborne-submarine-squadron.git
 cd airborne-submarine-squadron
 
 # Make scripts executable
@@ -172,7 +172,7 @@ We welcome contributions! Please see our contributing guidelines.
 
 [source,bash]
 ----
-git clone https://github.com/hyperpolymath/airborne-submarine-squadron.git
+git clone https://github.com/catachresis-colloquium/airborne-submarine-squadron.git
 cd airborne-submarine-squadron
 # See README.adoc for full development setup
 ----
@@ -314,6 +314,6 @@ LICENSE for details.
 *Download*:
 `release/airborne-submarine-squadron-alpha-1.tar.gz`
 *Source*:
-https://github.com/hyperpolymath/airborne-submarine-squadron[GitHub
+https://github.com/catachresis-colloquium/airborne-submarine-squadron[GitHub
 Repository] *Tag*:
-https://github.com/hyperpolymath/airborne-submarine-squadron/releases/tag/alpha-1[alpha-1]
+https://github.com/catachresis-colloquium/airborne-submarine-squadron/releases/tag/alpha-1[alpha-1]
